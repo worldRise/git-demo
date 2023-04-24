@@ -1,0 +1,41 @@
+"582010"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"16"
+	"PhotoData00.dat"
+	{
+		"root"		"0"
+		"size"		"321464"
+		"localtime"		"1669541618"
+		"time"		"1669541618"
+		"remotetime"		"1668926186"
+		"sha"		"4f85cc052652b098e2c9f48f7bf3aac508070e5a"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SAVEDATA1000"
+	{
+		"root"		"0"
+		"size"		"11284704"
+		"localtime"		"1669734006"
+		"time"		"1669734005"
+		"remotetime"		"1669448975"
+		"sha"		"b9e83f27056d98ec44aaf442040a72922dcf88fc"
+		"syncstate"		"4"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"slot00"
+	{
+		"root"		"0"
+		"size"		"81960"
+		"localtime"		"1669637288"
+		"time"		"1669637285"
+		"remotetime"		"1669637285"
+		"sha"		"a555dc42587844f5f584656652c77cd765044a7c"
+		"syncstate"		"3"
+		"persiststate"		"2"
+		"platformstosync2"		"-1"
+	}
+}
